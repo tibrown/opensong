@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<main_settings>
+  <ccli id="" password="" number=""/>
+  <version songs="0.98" sets="0.96" check="false"/>
+  <geometry y="67" x="20" width="1880" height="925"/>
+  <last_scripture per_slide="1" version="NASB.xmm" format="paragraph" book="43" chapter="1" verse="1" thru="10" show_numbers="true" verse_per_slide="1" chars_per_slide="400"/>
+  <proxy port="0" host=""/>
+  <fonts>
+  <headings font="Arial" size="11" bold="false" italic="false" underline="false" color="#000000" border="false" border_color="#000000" shadow="false" shadow_color="#000000" fill="false" fill_color="#000000"/>
+  <labels font="Arial" size="10" bold="false" italic="false" underline="false" color="#000000" border="false" border_color="#000000" shadow="false" shadow_color="#000000" fill="false" fill_color="#000000"/>
+  <text_fields font="Arial" size="12" bold="false" italic="false" underline="false" color="#000000" border="false" border_color="#000000" shadow="false" shadow_color="#000000" fill="false" fill_color="#000000"/>
+  <fixed_width font="Courier New" size="11" bold="false" italic="false" underline="false" color="#000000" border="false" border_color="#000000" shadow="false" shadow_color="#000000" fill="false" fill_color="#000000"/>
+  <large_headings font="Arial Black" size="24" bold="false" italic="false" underline="false" color="#000000" border="false" border_color="#000000" shadow="false" shadow_color="#000000" fill="false" fill_color="#000000"/>
+  <buttons font="Arial Narrow" size="11" bold="true" italic="false" underline="false" color="#000000" border="false" border_color="#000000" shadow="false" shadow_color="#000000" fill="false" fill_color="#000000"/>
+</fonts>
+  <user_defined user1="User Defined 1" user2="User Defined 2" user3="User Defined 3"/>
+  <paint new="false"/>
+  <songfolder>( All )</songfolder>
+  <startmode sets="1"/>
+  <song_revert_on_dont_save>true</song_revert_on_dont_save>
+  <image_quality compression="3" exclude_backgrounds="false" fit_to_screen="true" fit_to_body="false" keepaspect="true" background_as_text="false"/>
+  <slide_style_color enabled="false">
+  <verse color="#D5D5FF"/>
+  <bridge color="#0080FF"/>
+  <pre-chorus color="#FF80FF"/>
+  <chorus color="#FF8000"/>
+  <tag color="#A3A3FF"/>
+  <scripture color="#FFB4B4"/>
+  <custom color="#FFE3D5"/>
+  <style color="#EAEAFF"/>
+  <image color="#FFFFB4"/>
+  <external color="#D5FFD5"/>
+  <blank color="#FFFFFF"/>
+</slide_style_color>
+  <rcserver enable="false" port="8082">
+  <key/>
+</rcserver>
+  <linked_songs prompt="false"/>
+</main_settings>

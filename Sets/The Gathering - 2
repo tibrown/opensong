@@ -1,0 +1,593 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<set name="The Gathering">
+  <slide_groups>
+  <slide_group type="style" action="new" name="-- Exported Style --">
+  <style index="default_style">
+  <title enabled="true" valign="top" align="left" include_verse="false" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" font="Helvetica" size="16" bold="true" italic="true" underline="false" color="#C0C0C0" border="false" border_color="#000000" shadow="false" shadow_color="#000000" fill="false" fill_color="#000000"/>
+  <subtitle enabled="true" valign="bottom" align="left" descriptive="false" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" font="Helvetica" size="14" bold="true" italic="true" underline="false" color="#C0C0C0" border="false" border_color="#000000" shadow="false" shadow_color="#000000" fill="false" fill_color="#000000"/>
+  <song_subtitle/>
+  <body enabled="true" auto_scale="true" valign="middle" align="left" highlight_chorus="true" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" font="Helvetica" size="34" bold="true" italic="false" underline="false" color="#000000" border="false" border_color="#000000" shadow="false" shadow_color="#000000" fill="false" fill_color="#FF0000">
+  <tabs/>
+</body>
+  <background strip_footer="0" color="#FFFFFF" position="1"/>
+</style></slide_group>
+  <slide_group name="10000 Reasons" type="song" presentation="" path=""/>
+  <slide_group name="Hosanna" type="song" presentation="" path=""/>
+  <slide_group name="Nothing But The Blood - Traditional" type="song" presentation="" path=""/>
+  <slide_group name="Holy Spirit" type="song" presentation="" path=""/>
+  <slide_group name="Title slide" type="custom" print="true" seconds="0" loop="false" transition="0">
+  <title/>
+  <subtitle>A simple misunderstanding</subtitle>
+  <notes/>
+  <slides>
+  <slide>
+  <body>Praise &amp; Worship</body></slide></slides></slide_group>
+  <slide_group name="Praise &amp; worship Summary" type="custom" print="true" seconds="0" loop="false" transition="0">
+  <title>Praise &amp; Worship Summary</title>
+  <subtitle/>
+  <notes/>
+  <slides>
+  <slide>
+  <body>Praise is an audible, literal praise to God... Jesus, You saved me. God, You healed me. Lord, You love me.  The Lord delivered me from sin.</body></slide>
+  <slide>
+  <body>Worship is a thought, feeling, or act of our love for Christ, often expressed as a sign of surrender... lifting hands, clapping (could also be praise, audible), dancing (also a form of praise, see Psa 149:6), bowing, running, jumping, etc.</body></slide>
+  <slide>
+  <body>Applying the literal definitions to these words changes the way the passages read, and how the actions are performed.  Regardless, both must be done from a point of honesty and vulnerability.</body></slide>
+  <slide>
+  <body>Praise is sacrifice (Jer 17:26, Heb 13:15, 2Ki 17:36).  Just like then, God may or may not show up for the sacrifice, but it still needs to be done.  Being a “Christian”, we should want and expect for the physical presence of the Creator to show up.</body></slide></slides></slide_group>
+  <slide_group name="What's the purpose?" type="custom" print="true" seconds="0" loop="false" transition="0">
+  <title/>
+  <subtitle>An experiment in getting closer to God.</subtitle>
+  <notes/>
+  <slides>
+  <slide>
+  <body>What's the purpose?</body></slide></slides></slide_group>
+  <slide_group name="Praise title slide" type="custom" print="true" seconds="0" loop="false" transition="0">
+  <title/>
+  <subtitle>Audibly describing God as having high worth, viewed as sacrafice.</subtitle>
+  <notes/>
+  <slides>
+  <slide>
+  <body>Praise</body></slide></slides></slide_group>
+  <slide_group name="Praise Defined" type="custom" print="true" seconds="0" loop="false" transition="0">
+  <title>International Standard Bible Encyclopedia</title>
+  <subtitle>Praise Defined | It's totally worth reading their whole writeup on it.</subtitle>
+  <notes/>
+  <slides>
+  <slide>
+  <body>Praise "...comes from the Latin pretium, "price," or "value," and may be defined generally as an ascription of value or worth. Praise may be bestowed upon unworthy objects or from improper motives, but true praise consists in a sincere acknowledgment of a real conviction of worth. Its type may be seen in the representation given in the Apocalypse of the adoration of God and of the Lamb, which is inspired by a sense of their worthiness to be adored (Re 4:11; 5:12)."</body></slide></slides></slide_group>
+  <slide_group type="scripture" name="Revelation 4:11|KJV" print="true" seconds="0" loop="false" transition="0">
+  <title>Revelation 4:11 (KJV)</title>
+  <subtitle>Praise Defined</subtitle>
+  <notes/>
+  <slides>
+  <slide>
+  <body>11 Thou art worthy, O Lord, to receive glory and honour and power: for thou hast created all things, and for thy pleasure they are and were created.</body></slide></slides></slide_group>
+  <slide_group type="scripture" name="Revelation 5:12|KJV" print="true" seconds="0" loop="false" transition="0">
+  <title>Revelation 5:12 (KJV)</title>
+  <subtitle>Praise Defined</subtitle>
+  <notes/>
+  <slides>
+  <slide>
+  <body>12 Saying with a loud voice, Worthy is the Lamb that was slain to receive power, and riches, and wisdom, and strength, and honour, and glory, and blessing.</body></slide></slides></slide_group>
+  <slide_group name="Praise as a sacrifice title slide" type="custom" print="true" seconds="0" loop="false" transition="0">
+  <title/>
+  <subtitle>Audibly describing God as having high worth, viewed as sacrafice</subtitle>
+  <notes/>
+  <slides>
+  <slide>
+  <body>Praise as a sacrifice</body></slide></slides></slide_group>
+  <slide_group type="scripture" name="Jeremiah 17:26|KJV" print="true" seconds="0" loop="false" transition="0">
+  <title>Jeremiah 17:26 (KJV)</title>
+  <subtitle>Praise as a sacrifice</subtitle>
+  <notes/>
+  <slides>
+  <slide>
+  <body>26 And they shall come from the cities of Judah, and from the places about Jerusalem, and from the land of Benjamin, and from the plain, and from the mountains, and from the south, bringing burnt offerings, and sacrifices, and meat offerings, and incense, and bringing sacrifices of praise, unto the house of the LORD.</body></slide></slides></slide_group>
+  <slide_group type="scripture" name="Hebrews 13:15|KJV" print="true" seconds="0" loop="false" transition="0">
+  <title>Hebrews 13:15 (KJV)</title>
+  <subtitle>Praise as a sacrifice</subtitle>
+  <notes/>
+  <slides>
+  <slide>
+  <body>15 By him therefore let us offer the sacrifice of praise to God continually, that is, the fruit of our lips giving thanks to his name.</body></slide></slides></slide_group>
+  <slide_group name="Is there a need for praise?" type="custom" print="true" seconds="0" loop="false" transition="0">
+  <title/>
+  <subtitle>The simple answer...  Yes.</subtitle>
+  <notes/>
+  <slides>
+  <slide>
+  <body>Is there a need for praise?</body></slide></slides></slide_group>
+  <slide_group type="scripture" name="1 Chronicles 16:4|KJV" print="true" seconds="0" loop="false" transition="0">
+  <title>1 Chronicles 16:4 (KJV)</title>
+  <subtitle>Is there a need for praise? | Notice "before the ark". This led them through the wilderness.</subtitle>
+  <notes/>
+  <slides>
+  <slide>
+  <body>4 And he appointed certain of the Levites to minister before the ark of the LORD, and to record, and to thank and praise the LORD God of Israel:</body></slide></slides></slide_group>
+  <slide_group type="scripture" name="1 Chronicles 23:5|KJV" print="true" seconds="0" loop="false" transition="0">
+  <title>1 Chronicles 23:5 (KJV)</title>
+  <subtitle>Is there a need for praise? | Notice "four thousand praised the LORD"... Seems pretty important.</subtitle>
+  <notes/>
+  <slides>
+  <slide>
+  <body>5 Moreover four thousand were porters; and four thousand praised the LORD with the instruments which I made, said David, to praise therewith.</body></slide></slides></slide_group>
+  <slide_group type="scripture" name="2 Chronicles 8:14|KJV" print="true" seconds="0" loop="false" transition="0">
+  <title>2 Chronicles 8:14 (KJV)</title>
+  <subtitle>Is there a need for praise? | Notice "the duty of every day required"...  Seems pretty important.</subtitle>
+  <notes/>
+  <slides>
+  <slide>
+  <body>14 And he appointed, according to the order of David his father, the courses of the priests to their service, and the Levites to their charges, to praise and minister before the priests, as the duty of every day required: the porters also by their courses at every gate: for so had David the man of God commanded.</body></slide></slides></slide_group>
+  <slide_group type="scripture" name="2 Chronicles 20:21-22|KJV" print="true" seconds="0" loop="false" transition="0">
+  <title>2 Chronicles 20:21-22 (KJV)</title>
+  <subtitle>Is there a need for praise?</subtitle>
+  <notes/>
+  <slides>
+  <slide>
+  <body>21 And when he had consulted with the people, he appointed singers unto the LORD, and that should praise the beauty of holiness, as they went out before the army, and to say, Praise the LORD; for his mercy endureth for ever.</body></slide>
+  <slide>
+  <body>Note:  Even in battle the Lord's Prayer applies...  Praise and thanks start any battle.  They went singing before the army with praise!</body></slide>
+  <slide>
+  <body>22 And when they began to sing and to praise, the LORD set ambushments against the children of Ammon, Moab, and mount Seir, which were come against Judah; and they were smitten.</body></slide>
+  <slide>
+  <body>Note:  According to Gen 29:35... "And she conceived again, and bare a son: and she said, Now will I praise the LORD: therefore she called his name Judah; and left bearing."</body></slide>
+  <slide>
+  <body>Hitchcock's Bible Names Dictionary defines Judah to mean "the praise of the Lord; confession".</body></slide>
+  <slide>
+  <body>When it says "which were come against Judah", it could easily be translated as "which were come against the praise of the Lord."</body></slide>
+  <slide>
+  <body>22 And when they began to sing and to praise, the LORD set ambushments against the children of Ammon, Moab, and mount Seir, which were come against Judah (the praise of the Lord); and they were smitten.</body></slide></slides></slide_group>
+  <slide_group type="scripture" name="Psalms 22:26|KJV" print="true" seconds="0" loop="false" transition="0">
+  <title>Psalms 22:26 (KJV)</title>
+  <subtitle>Is there a need for praise? | Notice "your heart shall live for ever."... Clearly worth praise.</subtitle>
+  <notes/>
+  <slides>
+  <slide>
+  <body>26 The meek shall eat and be satisfied: they shall praise the LORD that seek him: your heart shall live for ever.</body></slide></slides></slide_group>
+  <slide_group type="scripture" name="Psalms 61:8|KJV" print="true" seconds="0" loop="false" transition="0">
+  <title>Psalms 61:8 (KJV)</title>
+  <subtitle>Is there a need for praise? | Notice "daily perform"...  Again, seems pretty important.</subtitle>
+  <notes/>
+  <slides>
+  <slide>
+  <body>8 So will I sing praise unto thy name for ever, that I may daily perform my vows.</body></slide></slides></slide_group>
+  <slide_group type="scripture" name="Psalms 119:164|KJV" print="true" seconds="0" loop="false" transition="0">
+  <title>Psalms 119:164 (KJV)</title>
+  <subtitle>Is there a need for praise? | Notice "Seven times a day"... David is escalating things.</subtitle>
+  <notes/>
+  <slides>
+  <slide>
+  <body>164 Seven times a day do I praise thee because of thy righteous judgments.</body></slide></slides></slide_group>
+  <slide_group type="scripture" name="Psalms 145:1|KJV" print="true" seconds="0" loop="false" transition="0">
+  <title>Psalms 145:1 (KJV)</title>
+  <subtitle>Is there a need for praise?</subtitle>
+  <notes/>
+  <slides>
+  <slide>
+  <body>1 I will extol thee, my God, O king; and I will bless thy name for ever and ever.</body></slide>
+  <slide>
+  <body>Note:  2nd of 2 psalms with "Psalm of praise" in the title.  This one is given special significance by David claiming it as his.</body></slide></slides></slide_group>
+  <slide_group name="What is being done?" type="custom" print="true" seconds="0" loop="false" transition="0">
+  <title/>
+  <subtitle>It is almost always audible.</subtitle>
+  <notes/>
+  <slides>
+  <slide>
+  <body>What is being done?</body></slide></slides></slide_group>
+  <slide_group type="scripture" name="Ezra 3:11|KJV" print="true" seconds="0" loop="false" transition="0">
+  <title>Ezra 3:11 (KJV)</title>
+  <subtitle>What is being done?</subtitle>
+  <notes/>
+  <slides>
+  <slide>
+  <body>11 And they sang together by course in praising and giving thanks unto the LORD; because he is good, for his mercy endureth for ever toward Israel. And all the people shouted with a great shout, when they praised the LORD, because the foundation of the house of the LORD was laid.</body></slide>
+  <slide>
+  <body>Notice "great shout"...  If we have ever shouted / jumped out of your seat / clapped your hands / hooted and hollered for a sports team and never done the same for the Creator / Christ, the Lord / Lord, God Almighty...  Repentance is called for.</body></slide></slides></slide_group>
+  <slide_group type="scripture" name="Psalms 9:11|KJV" print="true" seconds="0" loop="false" transition="0">
+  <title>Psalms 9:11 (KJV)</title>
+  <subtitle>What is being done?</subtitle>
+  <notes/>
+  <slides>
+  <slide>
+  <body>11 Sing praises to the LORD, which dwelleth in Zion: declare among the people his doings.</body></slide>
+  <slide>
+  <body>Notice "declare among the people his doings"...  this is the literal definition of the word praise.</body></slide></slides></slide_group>
+  <slide_group type="scripture" name="Psalms 27:6|KJV" print="true" seconds="0" loop="false" transition="0">
+  <title>Psalms 27:6 (KJV)</title>
+  <subtitle>What is being done? | Notice "sacrifices of joy"...  Another attribute to praise being sacrifice.</subtitle>
+  <notes/>
+  <slides>
+  <slide>
+  <body>6 And now shall mine head be lifted up above mine enemies round about me: therefore will I offer in his tabernacle sacrifices of joy; I will sing, yea, I will sing praises unto the LORD.</body></slide></slides></slide_group>
+  <slide_group type="scripture" name="Psalms 35:28|KJV" print="true" seconds="0" loop="false" transition="0">
+  <title>Psalms 35:28 (KJV)</title>
+  <subtitle>What is being done? | Notice "all the day long". This implies that praise is of great importance.</subtitle>
+  <notes/>
+  <slides>
+  <slide>
+  <body>28 And my tongue shall speak of thy righteousness and of thy praise all the day long.</body></slide></slides></slide_group>
+  <slide_group type="scripture" name="Psalms 63:3-11|KJV" print="true" seconds="0" loop="false" transition="0">
+  <title>Psalms 63:3-11 (KJV)</title>
+  <subtitle>What is being done?</subtitle>
+  <notes/>
+  <slides>
+  <slide>
+  <body>3 Because thy lovingkindness is better than life, my lips shall praise thee.</body></slide>
+  <slide>
+  <body>4 Thus will I bless thee while I live: I will lift up my hands in thy name.</body></slide>
+  <slide>
+  <body>5 My soul shall be satisfied as with marrow and fatness; and my mouth shall praise thee with joyful lips:</body></slide>
+  <slide>
+  <body>6 When I remember thee upon my bed, and meditate on thee in the night watches.</body></slide>
+  <slide>
+  <body>7 Because thou hast been my help, therefore in the shadow of thy wings will I rejoice.</body></slide>
+  <slide>
+  <body>8 My soul followeth hard after thee: thy right hand upholdeth me.</body></slide>
+  <slide>
+  <body>9 But those that seek my soul, to destroy it, shall go into the lower parts of the earth.</body></slide>
+  <slide>
+  <body>Note:  David condemns his enemies to hell.</body></slide>
+  <slide>
+  <body>10 They shall fall by the sword: they shall be a portion for foxes.</body></slide>
+  <slide>
+  <body>Note:  David then says they will die and be eaten by the foxes.  Sounds a little different than the stereotypical church member, huh?</body></slide>
+  <slide>
+  <body>11 But the king shall rejoice in God; every one that sweareth by him shall glory: but the mouth of them that speak lies shall be stopped.</body></slide>
+  <slide>
+  <body>Note:  Praise is clearly a good thing, speaking lies is not and warrants being stopped.</body></slide></slides></slide_group>
+  <slide_group type="scripture" name="Psalms 108:1|KJV" print="true" seconds="0" loop="false" transition="0">
+  <title>Psalms 108:1 (KJV)</title>
+  <subtitle>What is being done?</subtitle>
+  <notes/>
+  <slides>
+  <slide>
+  <body>1 O God, my heart is fixed; I will sing and give praise, even with my glory.</body></slide>
+  <slide>
+  <body>Notice "...even in my glory."  David is saying that even in the things that he, himself, receives glory for, or has done himself, that he will give the praise to God...  that everything goes back to Him.</body></slide></slides></slide_group>
+  <slide_group type="scripture" name="Psalms 149:3|KJV" print="true" seconds="0" loop="false" transition="0">
+  <title>Psalms 149:3 (KJV)</title>
+  <subtitle>What is being done?</subtitle>
+  <notes/>
+  <slides>
+  <slide>
+  <body>3 Let them praise his name in the dance: let them sing praises unto him with the timbrel and harp.</body></slide>
+  <slide>
+  <body>Notice "...praise his name in the dance..."  Dance is a form of worship (we will look at this later).</body></slide>
+  <slide>
+  <body>David is telling them to make it praise also by including the timbrel (tambourine) and harp, making the dance not only a physical form of surrender, but also something audible.</body></slide>
+  <slide>
+  <body>It also mentions singing.  Whether this is meant as literal singing or the noises made by the instruments being call "singing", I do not know.  I think either would be biblically acceptable though.</body></slide></slides></slide_group>
+  <slide_group type="scripture" name="Psalms 149:6|KJV" print="true" seconds="0" loop="false" transition="0">
+  <title>Psalms 149:6 (KJV)</title>
+  <subtitle>What is being done? | Note:  Here, praise is noted as a weapon.</subtitle>
+  <notes/>
+  <slides>
+  <slide>
+  <body>6 Let the high praises of God be in their mouth, and a two-edged sword in their hand;</body></slide></slides></slide_group>
+  <slide_group type="scripture" name="Psalms 150:2|KJV" print="true" seconds="0" loop="false" transition="0">
+  <title>Psalms 150:2 (KJV)</title>
+  <subtitle>What is being done?</subtitle>
+  <notes/>
+  <slides>
+  <slide>
+  <body>2 Praise him for his mighty acts: praise him according to his excellent greatness.</body></slide>
+  <slide>
+  <body>This is an example of what God could be praised for and how to do it ("according to his excellent greatness").</body></slide>
+  <slide>
+  <body>If we are to "praise him according to his excellent greatness", we are doing a poor job and will never be able to praise Him enough.</body></slide>
+  <slide>
+  <body>This should not be a point of stress, simply a point to realize.</body></slide>
+  <slide>
+  <body>There are four angels sitting around the throne, repeating over and over again, for all time "Holy, holy, holy, Lord God Almighty, which was, and is, and is to come." (See Rev 4:8)</body></slide>
+  <slide>
+  <body>If that's the case, every breath from now until we die could be filled with praise and it still would not compare to "his excellent greatness".</body></slide></slides></slide_group>
+  <slide_group type="scripture" name="Luke 19:37-40|KJV" print="true" seconds="0" loop="false" transition="0">
+  <title>Luke 19:37-40 (KJV)</title>
+  <subtitle>What is being done?</subtitle>
+  <notes/>
+  <slides>
+  <slide>
+  <body>37 And when he was come nigh, even now at the descent of the mount of Olives, the whole multitude of the disciples began to rejoice and praise God with a loud voice for all the mighty works that they had seen;</body></slide>
+  <slide>
+  <body>38 Saying, Blessed be the King that cometh in the name of the Lord: peace in heaven, and glory in the highest.</body></slide>
+  <slide>
+  <body>39 And some of the Pharisees from among the multitude said unto him, Master, rebuke thy disciples.</body></slide>
+  <slide>
+  <body>40 And he answered and said unto them, I tell you that, if these should hold their peace, the stones would immediately cry out.</body></slide>
+  <slide>
+  <body>Will we hold our peace?</body></slide></slides></slide_group>
+  <slide_group type="scripture" name="Acts 16:25|KJV" print="true" seconds="0" loop="false" transition="0">
+  <title>Acts 16:25 (KJV)</title>
+  <subtitle>What is being done? | If you're unfamiliar with this story, their praise destroys a prison.</subtitle>
+  <notes/>
+  <slides>
+  <slide>
+  <body>25 And at midnight Paul and Silas prayed, and sang praises unto God: and the prisoners heard them.</body></slide></slides></slide_group>
+  <slide_group type="scripture" name="Hebrews 2:12|KJV" print="true" seconds="0" loop="false" transition="0">
+  <title>Hebrews 2:12 (KJV)</title>
+  <subtitle>What is being done? | Note:  He's talking to God.</subtitle>
+  <notes/>
+  <slides>
+  <slide>
+  <body>12 Saying, I will declare thy name unto my brethren, in the midst of the church will I sing praise unto thee.</body></slide></slides></slide_group>
+  <slide_group type="scripture" name="Hebrews 13:15|KJV" print="true" seconds="0" loop="false" transition="0">
+  <title>Hebrews 13:15 (KJV)</title>
+  <subtitle>What is being done? | Note:  He's talking to the Church.</subtitle>
+  <notes/>
+  <slides>
+  <slide>
+  <body>15 By him therefore let us offer the sacrifice of praise to God continually, that is, the fruit of our lips giving thanks to his name.</body></slide></slides></slide_group>
+  <slide_group name="Reads a little different, huh?" type="custom" print="true" seconds="0" loop="false" transition="0">
+  <title>Reads a little different, huh?</title>
+  <subtitle>Or...  when they saw it, told people that God restored a man's sight.</subtitle>
+  <notes/>
+  <slides>
+  <slide>
+  <body>Luke 18:43 - And immediately he received his sight, and followed him, glorifying God: and all the people, when they saw it, gave praise unto God.</body></slide></slides></slide_group>
+  <slide_group name="Daily life title slide" type="custom" print="true" seconds="0" loop="false" transition="0">
+  <title/>
+  <subtitle>How does this change things?</subtitle>
+  <notes/>
+  <slides>
+  <slide>
+  <body>Daily life</body></slide></slides></slide_group>
+  <slide_group type="scripture" name="2 Chronicles 30:21|KJV" print="true" seconds="0" loop="false" transition="0">
+  <title>2 Chronicles 30:21 (KJV)</title>
+  <subtitle>Daily life | Notice "praised the LORD day by day".</subtitle>
+  <notes/>
+  <slides>
+  <slide>
+  <body>21 And the children of Israel that were present at Jerusalem kept the feast of unleavened bread seven days with great gladness: and the Levites and the priests praised the LORD day by day, singing with loud instruments unto the LORD.</body></slide></slides></slide_group>
+  <slide_group type="scripture" name="Psalms 72:15|KJV" print="true" seconds="0" loop="false" transition="0">
+  <title>Psalms 72:15 (KJV)</title>
+  <subtitle>Daily life | Notice "daily shall he be praised".</subtitle>
+  <notes/>
+  <slides>
+  <slide>
+  <body>15 And he shall live, and to him shall be given of the gold of Sheba: prayer also shall be made for him continually; and daily shall he be praised.</body></slide></slides></slide_group>
+  <slide_group type="scripture" name="Psalms 113:3|KJV" print="true" seconds="0" loop="false" transition="0">
+  <title>Psalms 113:3 (KJV)</title>
+  <subtitle>Daily life | Notice "From the rising of the sun unto the going down of the same"</subtitle>
+  <notes/>
+  <slides>
+  <slide>
+  <body>3 From the rising of the sun unto the going down of the same the LORD's name is to be praised.</body></slide></slides></slide_group>
+  <slide_group name="Why title slide" type="custom" print="true" seconds="0" loop="false" transition="0">
+  <title/>
+  <subtitle>Why should we praise?</subtitle>
+  <notes/>
+  <slides>
+  <slide>
+  <body>Why?</body></slide>
+  <slide>
+  <body>In the Old Testament, we were required to sacrifice to God.  We still are, just without bloodshed.</body></slide>
+  <slide>
+  <body>We still give life in the sense of time, but no blood is required for the sacrifice.  Now it is time and words.  And God rewards his children that praise him.</body></slide></slides></slide_group>
+  <slide_group type="scripture" name="Psalms 22:3|KJV" print="true" seconds="0" loop="false" transition="0">
+  <title>Psalms 22:3 (KJV)</title>
+  <subtitle>Why should we praise? | He inhabits the praises of His children!</subtitle>
+  <notes/>
+  <slides>
+  <slide>
+  <body>3 But thou art holy, O thou that inhabitest the praises of Israel.</body></slide></slides></slide_group>
+  <slide_group name="Worship title slide" type="custom" print="true" seconds="0" loop="false" transition="0">
+  <title/>
+  <subtitle>A sign of surrender, work, labor or service to God (almost always physical).</subtitle>
+  <notes/>
+  <slides>
+  <slide>
+  <body>Worship</body></slide></slides></slide_group>
+  <slide_group name="Worship Defined" type="custom" print="true" seconds="0" loop="false" transition="0">
+  <title>International Standard Bible Encyclopedia</title>
+  <subtitle>Worship Defined | It's totally worth reading their whole writeup on it.</subtitle>
+  <notes/>
+  <slides>
+  <slide>
+  <body>Honor, reverence, homage, in thought, feeling, or act, paid to men, angels, or other "spiritual" beings, and figuratively to other entities, ideas, powers or qualities, but specifically and supremely to Deity.</body></slide></slides></slide_group>
+  <slide_group type="scripture" name="John 4:23-24|KJV" print="true" seconds="0" loop="false" transition="0">
+  <title>John 4:23-24 (KJV)</title>
+  <subtitle>Worship Defined | I have no idea what this means.</subtitle>
+  <notes/>
+  <slides>
+  <slide>
+  <body>23 But the hour cometh, and now is, when the true worshippers shall worship the Father in spirit and in truth: for the Father seeketh such to worship him.</body></slide>
+  <slide>
+  <body>24 God is a Spirit: and they that worship him must worship him in spirit and in truth.</body></slide></slides></slide_group>
+  <slide_group name="What is being done?" type="custom" print="true" seconds="0" loop="false" transition="0">
+  <title/>
+  <subtitle>It is almost always physical.</subtitle>
+  <notes/>
+  <slides>
+  <slide>
+  <body>What is being done?</body></slide></slides></slide_group>
+  <slide_group type="scripture" name="Genesis 24:52|KJV" print="true" seconds="0" loop="false" transition="0">
+  <title>Genesis 24:52 (KJV)</title>
+  <subtitle>What is being done? | Notice "he worshipped the LORD, bowing himself to the earth."</subtitle>
+  <notes/>
+  <slides>
+  <slide>
+  <body>52 And it came to pass, that, when Abraham's servant heard their words, he worshipped the LORD, bowing himself to the earth.</body></slide></slides></slide_group>
+  <slide_group type="scripture" name="Exodus 4:31|KJV" print="true" seconds="0" loop="false" transition="0">
+  <title>Exodus 4:31</title>
+  <subtitle>What is being done? | Notice "bowed their heads and worshipped."</subtitle>
+  <notes/>
+  <slides>
+  <slide>
+  <body>31 And the people believed: and when they heard that the LORD had visited the children of Israel, and that he had looked upon their affliction, then they bowed their heads and worshipped.</body></slide></slides></slide_group>
+  <slide_group type="scripture" name="Joshua 5:14|KJV" print="true" seconds="0" loop="false" transition="0">
+  <title>Joshua 5:14 (KJV)</title>
+  <subtitle>What is being done? | Notice "fell on his face to the earth".</subtitle>
+  <notes/>
+  <slides>
+  <slide>
+  <body>14 And he said, Nay; but as captain of the host of the LORD am I now come. And Joshua fell on his face to the earth, and did worship, and said unto him, What saith my Lord unto his servant?</body></slide></slides></slide_group>
+  <slide_group type="scripture" name="Psalms 95:6|KJV" print="true" seconds="0" loop="false" transition="0">
+  <title>Psalms 95:6 (KJV)</title>
+  <subtitle>What is being done? | Notice "bow down: let us kneel before the LORD our maker".</subtitle>
+  <notes/>
+  <slides>
+  <slide>
+  <body>6 O come, let us worship and bow down: let us kneel before the LORD our maker.</body></slide></slides></slide_group>
+  <slide_group type="scripture" name="Isaiah 46:6|KJV" print="true" seconds="0" loop="false" transition="0">
+  <title>Isaiah 46:6 (KJV)</title>
+  <subtitle>What is being done? | Notice "they fall down".</subtitle>
+  <notes/>
+  <slides>
+  <slide>
+  <body>6 They lavish gold out of the bag, and weigh silver in the balance, and hire a goldsmith; and he maketh it a god: they fall down, yea, they worship.</body></slide></slides></slide_group>
+  <slide_group type="scripture" name="Jeremiah 44:19|KJV" print="true" seconds="0" loop="false" transition="0">
+  <title>Jeremiah 44:19 (KJV)</title>
+  <subtitle>What is being done? | Notice "did we make her cakes to worship her".</subtitle>
+  <notes/>
+  <slides>
+  <slide>
+  <body>19 And when we burned incense to the queen of heaven, and poured out drink offerings unto her, did we make her cakes to worship her, and pour out drink offerings unto her, without our men?</body></slide></slides></slide_group>
+  <slide_group type="scripture" name="Daniel 3:5|KJV" print="true" seconds="0" loop="false" transition="0">
+  <title>Daniel 3:5 (KJV)</title>
+  <subtitle>What is being done? | Notice "fall down and worship".</subtitle>
+  <notes/>
+  <slides>
+  <slide>
+  <body>5 That at what time ye hear the sound of the cornet, flute, harp, sackbut, psaltery, dulcimer, and all kinds of musick, ye fall down and worship the golden image that Nebuchadnezzar the king hath set up:</body></slide></slides></slide_group>
+  <slide_group type="scripture" name="Matthew 4:9|KJV" print="true" seconds="0" loop="false" transition="0">
+  <title>Matthew 4:9 (KJV)</title>
+  <subtitle>What is being done? | Notice "fall down and worship me."</subtitle>
+  <notes/>
+  <slides>
+  <slide>
+  <body>9 And saith unto him, All these things will I give thee, if thou wilt fall down and worship me.</body></slide></slides></slide_group>
+  <slide_group type="scripture" name="1 Corinthians 14:25|KJV" print="true" seconds="0" loop="false" transition="0">
+  <title>1 Corinthians 14:25 (KJV)</title>
+  <subtitle>What is being done? | Notice "falling down on his face he will worship God".</subtitle>
+  <notes/>
+  <slides>
+  <slide>
+  <body>25 And thus are the secrets of his heart made manifest; and so falling down on his face he will worship God, and report that God is in you of a truth.</body></slide></slides></slide_group>
+  <slide_group type="scripture" name="Revelation 4:10|KJV" print="true" seconds="0" loop="false" transition="0">
+  <title>Revelation 4:10 (KJV)</title>
+  <subtitle>What is being done? | Notice "fall down before him that sat on the throne, and worship".</subtitle>
+  <notes/>
+  <slides>
+  <slide>
+  <body>10 The four and twenty elders fall down before him that sat on the throne, and worship him that liveth for ever and ever, and cast their crowns before the throne, saying, 11 Thou art worthy, O Lord, to receive glory and honour and power: for thou hast created all things, and for thy pleasure they are and were created.</body></slide></slides></slide_group>
+  <slide_group type="scripture" name="Revelation 19:10|KJV" print="true" seconds="0" loop="false" transition="0">
+  <title>Revelation 19:10 (KJV)</title>
+  <subtitle>What is being done? | Notice "fell at his feet to worship him."</subtitle>
+  <notes/>
+  <slides>
+  <slide>
+  <body>10 And I fell at his feet to worship him. And he said unto me, See thou do it not: I am thy fellowservant, and of thy brethren that have the testimony of Jesus: worship God: for the testimony of Jesus is the spirit of prophecy.</body></slide></slides></slide_group>
+  <slide_group type="scripture" name="Revelation 22:8-9|KJV" print="true" seconds="0" loop="false" transition="0">
+  <title>Revelation 22:8-9 (KJV)</title>
+  <subtitle>What is being done? | Notice "fell down to worship".</subtitle>
+  <notes/>
+  <slides>
+  <slide>
+  <body>8 And I John saw these things, and heard them. And when I had heard and seen, I fell down to worship before the feet of the angel which shewed me these things.</body></slide>
+  <slide>
+  <body>9 Then saith he unto me, See thou do it not: for I am thy fellowservant, and of thy brethren the prophets, and of them which keep the sayings of this book: worship God.</body></slide></slides></slide_group>
+  <slide_group name="Why title slide" type="custom" print="true" seconds="0" loop="false" transition="0">
+  <title/>
+  <subtitle>Why should we worship?</subtitle>
+  <notes/>
+  <slides>
+  <slide>
+  <body>Why?</body></slide></slides></slide_group>
+  <slide_group type="scripture" name="Exodus 34:14|KJV" print="true" seconds="0" loop="false" transition="0">
+  <title>Exodus 34:14 (KJV)</title>
+  <subtitle>Why should we worship? | Notice "worship no other god" and "whose name is Jealous".</subtitle>
+  <notes/>
+  <slides>
+  <slide>
+  <body>14 For thou shalt worship no other god: for the LORD, whose name is Jealous, is a jealous God:</body></slide></slides></slide_group>
+  <slide_group type="scripture" name="Deuteronomy 8:19|KJV" print="true" seconds="0" loop="false" transition="0">
+  <title>Deuteronomy 8:19 (KJV)</title>
+  <subtitle>Why should we worship? | Notice "ye shall surely perish."</subtitle>
+  <notes/>
+  <slides>
+  <slide>
+  <body>19 And it shall be, if thou do at all forget the LORD thy God, and walk after other gods, and serve them, and worship them, I testify against you this day that ye shall surely perish.</body></slide></slides></slide_group>
+  <slide_group type="scripture" name="Matthew 11:28|KJV" print="true" seconds="0" loop="false" transition="0">
+  <title>Matthew 11:28 (KJV)</title>
+  <subtitle>Why should we worship? | Notice "I will give you rest."</subtitle>
+  <notes/>
+  <slides>
+  <slide>
+  <body>28 Come unto me, all ye that labour and are heavy laden, and I will give you rest.</body></slide></slides></slide_group>
+  <slide_group type="scripture" name="Matthew 16:24|KJV" print="true" seconds="0" loop="false" transition="0">
+  <title>Matthew 16:24 (KJV)</title>
+  <subtitle>Why should we worship? | Notice "let him deny himself".</subtitle>
+  <notes/>
+  <slides>
+  <slide>
+  <body>24 Then said Jesus unto his disciples, If any man will come after me, let him deny himself, and take up his cross, and follow me.</body></slide></slides></slide_group>
+  <slide_group type="scripture" name="2 Corinthians 12:9|KJV" print="true" seconds="0" loop="false" transition="0">
+  <title>2 Corinthians 12:9 (KJV)</title>
+  <subtitle>Why should we worship?</subtitle>
+  <notes/>
+  <slides>
+  <slide>
+  <body>9 And he said unto me, My grace is sufficient for thee: for my strength is made perfect in weakness. Most gladly therefore will I rather glory in my infirmities, that the power of Christ may rest upon me.</body></slide></slides></slide_group>
+  <slide_group type="scripture" name="Philippians 4:19|KJV" print="true" seconds="0" loop="false" transition="0">
+  <title>Philippians 4:19 (KJV)</title>
+  <subtitle>Why should we worship?</subtitle>
+  <notes/>
+  <slides>
+  <slide>
+  <body>19 But my God shall supply all your need according to his riches in glory by Christ Jesus.</body></slide></slides></slide_group>
+  <slide_group type="scripture" name="James 4:7|KJV" print="true" seconds="0" loop="false" transition="0">
+  <title>James 4:7 (KJV)</title>
+  <subtitle>Why should we worship?</subtitle>
+  <notes/>
+  <slides>
+  <slide>
+  <body>7 Submit yourselves therefore to God. Resist the devil, and he will flee from you.</body></slide></slides></slide_group>
+  <slide_group name="Physical presence of God title slide" type="custom" print="true" seconds="0" loop="false" transition="0">
+  <title/>
+  <subtitle>Is this even possible?</subtitle>
+  <notes/>
+  <slides>
+  <slide>
+  <body>Physical presence of God</body></slide>
+  <slide>
+  <body>Praise + Worship = God shows up</body></slide></slides></slide_group>
+  <slide_group type="scripture" name="2 Chronicles 5:13|KJV" print="true" seconds="0" loop="false" transition="0">
+  <title>2 Chronicles 5:13 (KJV)</title>
+  <subtitle>The physical presence of God | Notice "the house was filled with a cloud".</subtitle>
+  <notes/>
+  <slides>
+  <slide>
+  <body>13 It came even to pass, as the trumpeters and singers were as one, to make one sound to be heard in praising and thanking the LORD; and when they lifted up their voice with the trumpets and cymbals and instruments of musick, and praised the LORD, saying, For he is good; for his mercy endureth for ever: that then the house was filled with a cloud, even the house of the LORD;</body></slide></slides></slide_group>
+  <slide_group type="scripture" name="Psalms 22:3|KJV" print="true" seconds="0" loop="false" transition="0">
+  <title>Psalms 22:3 (KJV)</title>
+  <subtitle>The physical presence of God | Notice "inhabitest the praises of Israel."</subtitle>
+  <notes/>
+  <slides>
+  <slide>
+  <body>3 But thou art holy, O thou that inhabitest the praises of Israel.</body></slide></slides></slide_group>
+  <slide_group type="scripture" name="Luke 4:18|KJV" print="true" seconds="0" loop="false" transition="0">
+  <title>Luke 4:18 (KJV)</title>
+  <subtitle>The physical presence of God | Notice "The Spirit of the Lord is upon me".</subtitle>
+  <notes/>
+  <slides>
+  <slide>
+  <body>18 The Spirit of the Lord is upon me, because he hath anointed me to preach the gospel to the poor; he hath sent me to heal the brokenhearted, to preach deliverance to the captives, and recovering of sight to the blind, to set at liberty them that are bruised,</body></slide></slides></slide_group>
+  <slide_group type="scripture" name="Acts 2:17|KJV" print="true" seconds="0" loop="false" transition="0">
+  <title>Acts 2:17 (KJV)</title>
+  <subtitle>The physical presence of God | Notice "pour out of my Spirit".</subtitle>
+  <notes/>
+  <slides>
+  <slide>
+  <body>17 And it shall come to pass in the last days, saith God, I will pour out of my Spirit upon all flesh: and your sons and your daughters shall prophesy, and your young men shall see visions, and your old men shall dream dreams:</body></slide></slides></slide_group>
+  <slide_group type="scripture" name="2 Corinthians 6:16|KJV" print="true" seconds="0" loop="false" transition="0">
+  <title>2 Corinthians 6:16 (KJV)</title>
+  <subtitle>The physical presence of God | Notice "I will dwell in them, and walk in them".</subtitle>
+  <notes/>
+  <slides>
+  <slide>
+  <body>16 And what agreement hath the temple of God with idols? for ye are the temple of the living God; as God hath said, I will dwell in them, and walk in them; and I will be their God, and they shall be my people.</body></slide></slides></slide_group>
+  <slide_group name="Psalm 145, 1-6" type="song" presentation="" path="Bible Verses/"/>
+  <slide_group name="Rev 4,11 and 5,12" type="song" presentation="" path="Bible Verses/"/>
+  <slide_group name="Nothing But The Blood - Traditional" type="song" presentation="" path=""/>
+</slide_groups></set>
